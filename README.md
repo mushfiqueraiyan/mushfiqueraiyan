@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfS5AyE9IgGufX0Bqdon5Wr3wWxnVxIN7AdA&s"  />
+
 
 ###
 
@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mushfiqueraiyan/mushfiqueraiyan/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
