@@ -17,7 +17,7 @@ I'm Mushfique Raiyan, a passionate Frontend Developer currently pursuing my BSc 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mushfiqueraiyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mushfiqueraiyan1@gmail.com) 
 
 # 💻 Tech Stack:
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20" alt="JavaScript" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;
