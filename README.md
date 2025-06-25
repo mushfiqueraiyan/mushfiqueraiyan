@@ -17,28 +17,29 @@ I'm Mushfique Raiyan, a passionate Frontend Developer currently pursuing my BSc 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mushfiqueraiyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mushfiqueraiyan1@gmail.com) 
 
 # 💻 Tech Stack:
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="40" style="margin:5px;" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="40" style="margin:5px;" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="40" style="margin:5px;" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="40" style="margin:5px;" alt="C++" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="40" style="margin:5px;" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" height="40" style="margin:5px;" alt="Vite" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="40" style="margin:5px;" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="40" style="margin:5px;" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" height="40" style="margin:5px;" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="40" style="margin:5px;" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" height="40" style="margin:5px;" alt="Redux" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" height="40" style="margin:5px;" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" height="40" style="margin:5px;" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white" height="40" style="margin:5px;" alt="Chakra UI" />
-  <img src="https://img.shields.io/badge/DaisyUI-0FAE96?logo=daisyui&logoColor=white" height="40" style="margin:5px;" alt="DaisyUI" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="40" style="margin:5px;" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" height="40" style="margin:5px;" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="40" style="margin:5px;" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" height="40" style="margin:5px;" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="40" style="margin:5px;" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40" style="margin:5px;" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="40" style="margin:5px;" alt="GitHub" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="32" style="margin:3px;" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" style="margin:3px;" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="32" style="margin:3px;" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="32" style="margin:3px;" alt="C++" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" style="margin:3px;" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" height="32" style="margin:3px;" alt="Vite" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="32" style="margin:3px;" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="32" style="margin:3px;" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" height="32" style="margin:3px;" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="32" style="margin:3px;" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" height="32" style="margin:3px;" alt="Redux" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" height="32" style="margin:3px;" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" height="32" style="margin:3px;" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white" height="32" style="margin:3px;" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/DaisyUI-0FAE96?logo=daisyui&logoColor=white" height="32" style="margin:3px;" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="32" style="margin:3px;" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" height="32" style="margin:3px;" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="32" style="margin:3px;" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" height="32" style="margin:3px;" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="32" style="margin:3px;" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="32" style="margin:3px;" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="32" style="margin:3px;" alt="GitHub" />
+
 
 # GitHub Stats:
 
