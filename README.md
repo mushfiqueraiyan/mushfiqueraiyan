@@ -10,7 +10,7 @@
 
 
 # About Me:
-I'm Mushfique Raiyan, a passionate Frontend Developer currently pursuing my BSc in Computer Science and Engineering at Sylhet International University. Based in Bangladesh, I specialize in building clean, responsive, and user-friendly web interfaces. Always learning, always coding<br>
+I'm Mushfique Raiyan, a passionate Frontend Developer currently pursuing my BSc in Computer Science and Engineering at Sylhet International University. Based in Bangladesh, I specialize in building clean, responsive, and user-friendly web interfaces. Always learning, always coding.<br>
 
 
 ## 🌐 Socials:
