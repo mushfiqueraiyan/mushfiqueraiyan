@@ -13,14 +13,12 @@
 I'm Mushfique Raiyan, a passionate Frontend Developer Based in Bangladesh, currently pursuing my BSc in Computer Science and Engineering at Sylhet International University. I specialize in building clean, responsive, and user-friendly web interfaces. Always learning, always coding.<br>
 
 
-## 🌐 Socials:
+## Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mushfiqueraiyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mushfiqueraiyan1@gmail.com) 
 
 # 💻 Tech Stack:
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20" alt="JavaScript" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />&nbsp;
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />&nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />&nbsp;
@@ -28,7 +26,6 @@ I'm Mushfique Raiyan, a passionate Frontend Developer Based in Bangladesh, curre
   <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" alt="Express.js" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />&nbsp;
-  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" alt="Socket.IO" />&nbsp;
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" alt="TailwindCSS" />&nbsp;
   <img src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white" alt="Chakra UI" />&nbsp;
   <img src="https://img.shields.io/badge/DaisyUI-0FAE96?logo=daisyui&logoColor=white" alt="DaisyUI" />&nbsp;
