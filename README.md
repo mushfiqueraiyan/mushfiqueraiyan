@@ -15,47 +15,13 @@
 I'm **Mushfique Raiyan**, a passionate **Frontend Developer** from **Bangladesh**, currently pursuing a **BSc in CSE at Sylhet International University**. I focus on building **clean, responsive, and optimized UI/UX experiences**. Always learning. Always improving. Always building.
 
 <br>
-## 📫 Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mushfiqueraiyan)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mushfiqueraiyan1@gmail.com)
 
----
+## Reach me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mushfiqueraiyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mushfiqueraiyan1@gmail.com) 
 
-# 💻 Tech Stack
+# 💻 Tech Stack: 
 
-<p align="">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="25"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="25"/>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Chakra%20UI-319795?logo=chakra-ui&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/DaisyUI-0FAE96?logo=daisyui&logoColor=white" height="25"/>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" height="25"/>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/C++-044F88?logo=cplusplus&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Wix-000000?logo=wix&logoColor=white" height="25"/>
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20" alt="JavaScript" />&nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />&nbsp; <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />&nbsp; <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />&nbsp; <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />&nbsp; <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />&nbsp; <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" alt="Express.js" />&nbsp; <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp; <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />&nbsp; <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" alt="TailwindCSS" />&nbsp; <img src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white" alt="Chakra UI" />&nbsp; <img src="https://img.shields.io/badge/DaisyUI-0FAE96?logo=daisyui&logoColor=white" alt="DaisyUI" />&nbsp; <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp; <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />&nbsp; <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />&nbsp; <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" />&nbsp; <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />&nbsp; <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Cpp" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp; <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" alt="Stripe" />&nbsp; <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" alt="Shopify" />&nbsp; <img src="https://img.shields.io/badge/Wix-000000?logo=wix&logoColor=white" alt="Wix" />&nbsp; <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />&nbsp; <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />
 
 ---
 
