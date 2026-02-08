@@ -49,7 +49,7 @@ I'm Mushfique Raiyan, a passionate Frontend Developer Based in Bangladesh, curre
 
 
 ### Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiqueraiyan&theme=high-contrast" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiqueraiyan&theme=github-dark" />
 
 
 # GitHub Stats:
