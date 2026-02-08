@@ -39,6 +39,13 @@ I'm Mushfique Raiyan, a passionate Frontend Developer Based in Bangladesh, curre
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Cpp" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
+<img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" alt="Stripe" />&nbsp;
+<img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" alt="Shopify" />&nbsp;
+<img src="https://img.shields.io/badge/Wix-000000?logo=wix&logoColor=white" alt="Wix" />&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />
+
 
 
 ### Contribution Graph  
