@@ -12,12 +12,9 @@
 <br>
 
 # 👋 About Me  
-I'm **Mushfique Raiyan**, a passionate **Frontend Developer** from **Bangladesh**, currently pursuing a **BSc in CSE at Sylhet International University**.  
-I focus on building **clean, responsive, and optimized UI/UX experiences**.  
-Always learning. Always improving. Always building.
+I'm **Mushfique Raiyan**, a passionate **Frontend Developer** from **Bangladesh**, currently pursuing a **BSc in CSE at Sylhet International University**. I focus on building **clean, responsive, and optimized UI/UX experiences**. Always learning. Always improving. Always building.
 
 <br>
-
 ## 📫 Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mushfiqueraiyan)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mushfiqueraiyan1@gmail.com)
@@ -26,7 +23,7 @@ Always learning. Always improving. Always building.
 
 # 💻 Tech Stack
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="25"/>
