@@ -56,14 +56,13 @@ I'm Mushfique Raiyan, a passionate Frontend Developer Based in Bangladesh, curre
 
 
 
-<div align="center" style="width: 100%;">
+<!-- <div align="center" style="width: 100%;"> -->
   <!-- <img 
     src="https://github-readme-stats.vercel.app/api?username=mushfiqueraiyan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" 
     alt="stats graph" 
     style="width: 100%; max-width: 600px;" 
-  /> -->
 
-  <img 
+    <img 
     src="https://nirzak-streak-stats.vercel.app/?user=mushfiqueraiyan&theme=tokyonight&hide_border=false" 
     alt="mushfiqueraiyan's Streak" 
     style="width: 80%; max-width: 400px;" 
@@ -75,6 +74,28 @@ I'm Mushfique Raiyan, a passionate Frontend Developer Based in Bangladesh, curre
     style="width:80%; max-width: 400px;" 
   />
 </div>
+  /> -->
+
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <!-- Most Commit Language -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mushfiqueraiyan&theme=github-dark" 
+    alt="Most Commit Language"
+    style="height: 160px;"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=mushfiqueraiyan&theme=github_dark&hide_border=false"
+    alt="GitHub Streak"
+    style="height: 160px;"
+  />
+
+</div>
+
+
+  
 
 
 
