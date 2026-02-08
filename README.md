@@ -114,6 +114,10 @@ I'm Mushfique Raiyan, a passionate Frontend Developer Based in Bangladesh, curre
 
 <br clear="both">
 
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0057ff,100:00bfff&height=90&section=header" 
+  width="100%" 
+/>
 
 
 ###
