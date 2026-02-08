@@ -36,6 +36,9 @@ I'm Mushfique Raiyan, a passionate Frontend Developer Based in Bangladesh, curre
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Cpp" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA" />
 
 
 ### Contribution Graph  
